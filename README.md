@@ -1,8 +1,8 @@
-> **Retired — September 2026.** The BEACN DRep deregistered on 13 September 2026 (UTC). Automated checks, analysis and voting have ended; this site and every published rationale remain as a permanent public record. [BEACN archive](https://beacnpool.github.io/ABCDE/pool/)
+> **Retired — September 2026.** The BEACN DRep deregistered on 13 September 2026 (UTC). Automated checks, analysis and voting have ended; this site and every published rationale remain as a permanent public record. [BEACN archive](https://beacnlabs.github.io/ABCDE/pool/)
 
 # beacn-drep-web
 
-🌐 **Live site:** https://beacnpool.github.io/beacn-drep-web/
+🌐 **Live site:** https://beacnlabs.github.io/beacn-drep-web/
 
 Presentation layer for BEACN DRep outputs.
 

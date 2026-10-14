@@ -35,7 +35,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 PUB = ROOT / "data" / "output" / "public"
 SHARE_DIR = PUB / "share"
-SITE_URL = "beacnpool.github.io/beacn-drep-web"
+SITE_URL = "beacnlabs.github.io/beacn-drep-web"
 X_HANDLE = "@BEACNpool"
 
 CARDANO_START = datetime(2017, 9, 23, 21, 44, 51, tzinfo=timezone.utc)

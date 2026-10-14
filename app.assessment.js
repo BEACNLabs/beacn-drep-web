@@ -19,13 +19,13 @@ const SRC = {
 
 /* The full statement of what can and cannot influence a decision — the contract
    audit_status.json's integrity block points at. Linked, never restated, so it has one home. */
-const LIMITS_DOC = "https://github.com/BEACNpool/beacn-drep-web/blob/main/docs/PUBLIC_CONTEXT_AND_LIMITS.md";
+const LIMITS_DOC = "https://github.com/BEACNLabs/beacn-drep-web/blob/main/docs/PUBLIC_CONTEXT_AND_LIMITS.md";
 
 const GH = {
-  soul:      c => `https://github.com/BEACNpool/beacn-drep-soul/tree/${c}`,
-  core:      c => `https://github.com/BEACNpool/beacn-drep-core/tree/${c}`,
-  resources: c => `https://github.com/BEACNpool/beacn-drep-resources/tree/${c}`,
-  weights:   c => `https://github.com/BEACNpool/beacn-drep-soul/blob/${c}/scoring_weights.json`,
+  soul:      c => `https://github.com/BEACNLabs/beacn-drep-soul/tree/${c}`,
+  core:      c => `https://github.com/BEACNLabs/beacn-drep-core/tree/${c}`,
+  resources: c => `https://github.com/BEACNLabs/beacn-drep-resources/tree/${c}`,
+  weights:   c => `https://github.com/BEACNLabs/beacn-drep-soul/blob/${c}/scoring_weights.json`,
 };
 
 /* Published artifact paths are recorded absolute ("/data/output/..."), but the site is served from
